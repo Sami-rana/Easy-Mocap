@@ -8,12 +8,6 @@
 ![python](https://img.shields.io/github/languages/top/zju3dv/EasyMocap)
 ![star](https://img.shields.io/github/stars/zju3dv/EasyMocap?style=social)
 
-## News
-
-- :tada: Our SIGGRAPH 2022 [**Novel View Synthesis of Human Interactions From Sparse Multi-view Videos**](https://chingswy.github.io/easymocap-public-doc/works/multinb.html) is released! Check the [documentation](https://chingswy.github.io/easymocap-public-doc/works/multinb.html).
-- :tada: EasyMocap v0.2 is released! We support motion capture from Internet videos. Please check the [Quick Start](https://chingswy.github.io/easymocap-public-doc/quickstart/quickstart.html) for more details.
-
-
 ---
 
 ## Core features
