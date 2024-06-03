@@ -1,10 +1,3 @@
-<!--
- * @Date: 2021-01-13 20:32:12
- * @Author: Qing Shuai
- * @LastEditors: Qing Shuai
- * @LastEditTime: 2022-11-03 13:09:58
- * @FilePath: /EasyMocapRelease/Readme.md
--->
 
 <div align="center">
     <img src="logo.png" width="40%">
