@@ -1,3 +1,10 @@
+<!--
+ * @Date: 2021-01-13 20:32:12
+ * @Author: Qing Shuai
+ * @LastEditors: Qing Shuai
+ * @LastEditTime: 2022-11-03 13:09:58
+ * @FilePath: /EasyMocapRelease/Readme.md
+-->
 
 <div align="center">
     <img src="logo.png" width="40%">
@@ -7,6 +14,12 @@
 
 ![python](https://img.shields.io/github/languages/top/zju3dv/EasyMocap)
 ![star](https://img.shields.io/github/stars/zju3dv/EasyMocap?style=social)
+
+## News
+
+- :tada: Our SIGGRAPH 2022 [**Novel View Synthesis of Human Interactions From Sparse Multi-view Videos**](https://chingswy.github.io/easymocap-public-doc/works/multinb.html) is released! Check the [documentation](https://chingswy.github.io/easymocap-public-doc/works/multinb.html).
+- :tada: EasyMocap v0.2 is released! We support motion capture from Internet videos. Please check the [Quick Start](https://chingswy.github.io/easymocap-public-doc/quickstart/quickstart.html) for more details.
+
 
 ---
 
@@ -240,4 +253,20 @@ Multi-view Videos},
   year={2021}
 }
 
+```
 
+[^loper2015]: Loper, Matthew, et al. "SMPL: A skinned multi-person linear model." ACM transactions on graphics (TOG) 34.6 (2015): 1-16.
+
+[^romero2017]: Romero, Javier, Dimitrios Tzionas, and Michael J. Black. "Embodied hands: Modeling and capturing hands and bodies together." ACM Transactions on Graphics (ToG) 36.6 (2017): 1-17.
+
+[^pavlakos2019]: Pavlakos, Georgios, et al. "Expressive body capture: 3d hands, face, and body from a single image." Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition. 2019.
+
+<!-- [4] Bogo, Federica, et al. "Keep it SMPL: Automatic estimation of 3D human pose and shape from a single image." European conference on computer vision. Springer, Cham, 2016. -->
+
+[^cao2018]: Cao, Z., Hidalgo, G., Simon, T., Wei, S.E., Sheikh, Y.: Openpose: real-time multi-person 2d pose estimation using part affinity fields. arXiv preprint arXiv:1812.08008 (2018)
+
+[^kolotouros2019]: Kolotouros, Nikos, et al. "Learning to reconstruct 3D human pose and shape via model-fitting in the loop." Proceedings of the IEEE/CVF International Conference on Computer Vision. 2019
+
+[^bochkovskiy2020]: Bochkovskiy, Alexey, Chien-Yao Wang, and Hong-Yuan Mark Liao. "Yolov4: Optimal speed and accuracy of object detection." arXiv preprint arXiv:2004.10934 (2020).
+
+[^hrnet]: Sun, Ke, et al. "Deep high-resolution representation learning for human pose estimation." Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition. 2019.
